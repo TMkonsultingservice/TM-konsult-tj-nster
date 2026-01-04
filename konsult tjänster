@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <title>TM Konsulttjänster</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="top-bar">
+    <h1>TM Konsulttjänster</h1>
+  </header>
+
+  <main class="content">
+    <p>
+      Erbjuder professionella konsulttjänster med fokus på
+      struktur, strategi och hållbar tillväxt.
+    </p>
+  </main>
+
+  <footer class="footer">
+    <p>📞 Telefon: +46 079238735</p>
+    <p>✉️ Email: TMkonsulttjänster@hotmail.com</p>
+  </footer>
+
+</body>
+</html>
